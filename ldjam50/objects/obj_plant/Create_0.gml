@@ -23,11 +23,11 @@ function root_at(xx, yy) {
 }
 
 function cut(xx, yy) {
-	var pop = 0
 	var len = array_length(branches)
+	var pop = root_at(xx, yy) * len
 	for (var i = 0; i < len; i += 1) {
 		var branch = branches[i]
-		if branch.x == xx and branch.y == yy {
+		if pop == 0 and branch.x == xx and branch.y == yy {
 			pop = len - i
 		}
 		if pop != 0 {

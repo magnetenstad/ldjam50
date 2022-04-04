@@ -10,6 +10,7 @@
     {"id":{"name":"obj_shears","path":"objects/obj_shears/obj_shears.yy",},"order":4,},
     {"id":{"name":"scr_utils","path":"scripts/scr_utils/scr_utils.yy",},"order":0,},
     {"id":{"name":"obj_main","path":"objects/obj_main/obj_main.yy",},"order":0,},
+    {"id":{"name":"spr_plant_hori","path":"sprites/spr_plant_hori/spr_plant_hori.yy",},"order":3,},
     {"id":{"name":"obj_garden","path":"objects/obj_garden/obj_garden.yy",},"order":2,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
